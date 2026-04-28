@@ -83,6 +83,7 @@ Trenly
 ttc
 ubuntu
 UEFI
+UTF
 unassign
 uninstall
 uninstaller
